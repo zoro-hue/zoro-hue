@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asura006" alt="asura006" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@jayanth_jagu" target="blank"><img src="https://img.shields.io/twitter/follow/@jayanth_jagu?logo=twitter&style=for-the-badge" alt="@jayanth_jagu" /></a> </p>
+<p align="left"> <a href="https://twitter.com/jayanth_jagu" target="blank"><img src="https://img.shields.io/twitter/follow/jayanth_jagu?logo=twitter&style=for-the-badge" alt="jayanth_jagu" /></a> </p>
 
 - 📫 How to reach me **jagujayanth6@gmail.com**
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@jayanth_jagu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@jayanth_jagu" height="30" width="40" /></a>
+<a href="https://twitter.com/jayanth_jagu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jayanth_jagu" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jayanth jagu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jayanth jagu" height="30" width="40" /></a>
 <a href="https://fb.com/jayanth jagu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jayanth jagu" height="30" width="40" /></a>
 <a href="https://instagram.com/_jayanth.j_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_jayanth.j_" height="30" width="40" /></a>
