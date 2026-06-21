@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Jayanth Jagu
+# 💫 Hi 👋, I'm Jayanth J
 **Full Stack Developer || AI/ML Enthusiast || Open Source Learner**<br><br>
 
 ###
