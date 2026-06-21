@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi 👋, I'm Jayanth Jagu
 🔭 I’m currently working on Full Stack Development and AI/ML projects<br><br>👯 I’m looking to collaborate on web applications, open-source projects, and AI-driven solutions<br><br>🤝 I’m looking for help with scalable backend architectures and advanced AI/ML concepts<br><br>🌱 I’m currently learning Next.js, Generative AI, and System Design<br><br>💬 Ask me about HTML, CSS, Bootstrap, JavaScript, React, Node.js, Express.js, MongoDB, MySQL, REST APIs, Java, Python, C, and C++<br><br>⚡ Fun fact: 404<br>
 
 
