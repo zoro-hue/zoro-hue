@@ -1,5 +1,11 @@
 # 💫 Hi 👋, I'm Jayanth Jagu
 **Full Stack Developer || AI/ML Enthusiast || Open Source Learner**<br><br>
+
+###
+
+<img data-importer="image" align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
 🔭 I’m currently working on Full Stack Development and AI/ML projects<br><br>👯 I’m looking to collaborate on web applications, open-source projects, and AI-driven solutions<br><br>🤝 I’m looking for help with scalable backend architectures and advanced AI/ML concepts<br><br>🌱 I’m currently learning Next.js, Generative AI, and System Design<br><br>💬 Ask me about HTML, CSS, Bootstrap, JavaScript, React, Node.js, Express.js, MongoDB, MySQL, REST APIs, Java, Python, C, and C++<br><br>⚡ Fun fact: 404<br>
 
 
@@ -17,16 +23,9 @@
 ![](https://streak-stats.demolab.com/?user=zoro-hue&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=zoro-hue&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=zoro-hue&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
-###
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
 
 ###
 
